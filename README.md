@@ -1,4 +1,3 @@
-# akashreddy1234.github.io
 # **🎯 AKASH REDDY**  
 ## *Frontline Developer* 🚀
 
@@ -24,6 +23,27 @@ Born in Anantapur, Andhra Pradesh, currently pursuing my graduation in Jalandhar
 - By this, we can weigh the load that is to be traveled in a lift.
 - Showcased a practical solution to a common issue in building management.  
 ⚙️ **Skills Used:** Proteus, Hardware Interfacing  
+
+#### **3. HOTEL MANAGEMENT SYSTEM**  
+**Aim:** Developed a hotel management system using PHP to manage hotel bookings and guest information.  
+**Outcome:**  
+- Streamlined hotel operations by handling room bookings, check-ins, and check-outs.
+- Implemented an easy-to-use interface for hotel staff to manage day-to-day tasks.  
+🏨 **Skills Used:** PHP, MySQL, HTML, CSS
+
+#### **4. GYM WEBSITE**  
+**Aim:** Created a gym website using HTML, Angular, and CSS.  
+**Outcome:**  
+- Users can view gym membership plans, schedules, and trainer information.
+- Dynamic and responsive design using Angular for user-friendly interactions.  
+🏋️ **Skills Used:** Angular, HTML, CSS
+
+#### **5. BOOKSTORE APPLICATION**  
+**Aim:** Built a full-stack bookstore web app using the MERN stack (MongoDB, Express, React, Node.js).  
+**Outcome:**  
+- Users can browse, search, and purchase books with user authentication.
+- Admin features for managing book inventory and sales tracking.  
+📚 **Skills Used:** MERN Stack (MongoDB, Express, React, Node.js)
 
 ---
 
