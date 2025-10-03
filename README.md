@@ -1,92 +1,115 @@
-# **🎯 AKASH REDDY**  
-## *Frontline Developer* 🚀
 
 ---
 
-### **About Me**  
-Born in Anantapur, Andhra Pradesh, currently pursuing my graduation in Jalandhar, Punjab. I'm a Computer Science Engineering student at Lovely Professional University (2022-2026), with a knack for front-end development. I'm seeking a responsible career opportunity to fully utilize my training and skills while contributing to the success of the company.
+# **🎯 Akash Reddy**
+
+## *Aspiring Data Analyst* 🚀
 
 ---
 
-### **🛠️ Projects**  
+### **About Me**
 
-#### **1. BLOOD DONATION WEBSITE**  
-**Aim:** Created a blood donation website using HTML and CSS.  
-**Outcome:**  
-- A platform where users can register their names for blood donation.
-- Improved visibility and ease for blood donors to participate.  
-📈 **Skills Used:** HTML, CSS
+Born in Anantapur, Andhra Pradesh, currently pursuing my graduation in Jalandhar, Punjab. I'm a Computer Science Engineering student at Lovely Professional University (2022-2026), specializing in **Data Analytics**.
 
-#### **2. ELEVATOR WITH LOAD PITCH**  
-**Aim:** Created a project called "Elevator with load pitch" using a software called Proteus.  
-**Outcome:**  
-- By this, we can weigh the load that is to be traveled in a lift.
-- Showcased a practical solution to a common issue in building management.  
-⚙️ **Skills Used:** Proteus, Hardware Interfacing  
-
-#### **3. HOTEL MANAGEMENT SYSTEM**  
-**Aim:** Developed a hotel management system using PHP to manage hotel bookings and guest information.  
-**Outcome:**  
-- Streamlined hotel operations by handling room bookings, check-ins, and check-outs.
-- Implemented an easy-to-use interface for hotel staff to manage day-to-day tasks.  
-🏨 **Skills Used:** PHP, MySQL, HTML, CSS
-
-#### **4. GYM WEBSITE**  
-**Aim:** Created a gym website using HTML, Angular, and CSS.  
-**Outcome:**  
-- Users can view gym membership plans, schedules, and trainer information.
-- Dynamic and responsive design using Angular for user-friendly interactions.  
-🏋️ **Skills Used:** Angular, HTML, CSS
-
-#### **5. BOOKSTORE APPLICATION**  
-**Aim:** Built a full-stack bookstore web app using the MERN stack (MongoDB, Express, React, Node.js).  
-**Outcome:**  
-- Users can browse, search, and purchase books with user authentication.
-- Admin features for managing book inventory and sales tracking.  
-📚 **Skills Used:** MERN Stack (MongoDB, Express, React, Node.js)
+I enjoy transforming raw data into actionable insights, building reports and dashboards, and solving business problems using SQL, Excel, and Power BI. I am seeking opportunities to contribute to data-driven decision-making in organizations.
 
 ---
 
-### **💻 Technical Skills**  
-- **Hard Skills:**  
-  - 💻 Computer Skill  
-  - 🎯 Math Skill  
-  - 📅 Event Management Skill  
+### **🛠️ Data Analytics Projects**
 
-- **Languages:**  
-  - Java ☕  
-  - C++  
-  - HTML, CSS, JavaScript  
+1. **📊 World Layoffs Analysis (EDA) – SQL Case Study**
+   **Aim:** Explored a global layoffs dataset to identify trends, top-affected companies, industries, and countries.
+   **Outcome:**
+
+   * Cleaned and standardized dataset using SQL.
+   * Performed advanced exploratory data analysis including rolling totals, top layoffs per company/year, and monthly trends.
+   * Provided actionable insights for business decision-making.
+     **Skills & Tools Used:**
+     ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge\&logo=MySQL\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white) ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-F7DF1E?style=for-the-badge) ![EDA](https://img.shields.io/badge/EDA-FF5733?style=for-the-badge)
+
+2. **🧹 World Layoffs Data Cleaning – SQL Case Study**
+   **Aim:** Performed end-to-end data cleaning on global layoffs dataset.
+   **Outcome:**
+
+   * Removed duplicates, standardized industries and countries, handled null values.
+   * Created staging tables to maintain raw data integrity.
+     **Skills & Tools Used:**
+     ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge\&logo=MySQL\&logoColor=white) ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge) ![Data Preparation](https://img.shields.io/badge/Data%20Preparation-F39C12?style=for-the-badge)
+
+3. **🍕 Pizza Sales Analysis – SQL Case Study**
+   **Aim:** Analyzed pizza sales dataset to extract business insights.
+   **Outcome:**
+
+   * Aggregated sales by pizza type, branch, and month.
+   * Generated key metrics like total revenue, top-selling items, and trends.
+     **Skills & Tools Used:**
+     ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge\&logo=MySQL\&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-F7DF1E?style=for-the-badge) ![Reporting](https://img.shields.io/badge/Reporting-1ABC9C?style=for-the-badge)
+
+4. **📈 Power BI – AdventureWorks Analysis**
+   **Aim:** Built an interactive Power BI dashboard to analyze sales and budget performance.
+   **Outcome:**
+
+   * Created KPIs, variance analysis, and percentage growth metrics.
+   * Developed dynamic visualizations for business reporting.
+     **Skills & Tools Used:**
+     ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge) ![Data Visualization](https://img.shields.io/badge/Data%20Viz-4CAF50?style=for-the-badge) ![Dashboard](https://img.shields.io/badge/Dashboard-8E44AD?style=for-the-badge)
 
 ---
 
-### **🧠 Soft Skills**  
-- Communication  
-- Decision Making  
-- Leadership  
-- Problem-solving  
+### **💻 Technical Skills**
+
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge\&logo=MySQL\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-F7DF1E?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4CAF50?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-FF5733?style=for-the-badge)
+![Reporting](https://img.shields.io/badge/Reporting-1ABC9C?style=for-the-badge)
+![Dashboard](https://img.shields.io/badge/Dashboard-8E44AD?style=for-the-badge)
 
 ---
 
-### **🎨 Hobbies**  
-- 🏸 Cricket  
-- 🎾 Kabaddi  
-- 📸 Photography  
+### **🧠 Soft Skills**
+
+* Communication
+* Decision Making
+* Leadership
+* Problem-Solving
 
 ---
 
-### **📜 Certifications**  
-- Learning AI and ML (LinkedIn, 2023)  
-- Becoming a Video Editor (LinkedIn, 2023)  
+### **🎨 Hobbies**
+
+* 🏸 Cricket
+* 🎾 Kabaddi
+* 📸 Photography
 
 ---
 
-### **🏆 Achievements**  
-- District-level Cricket Player (2017) 🏅  
-- Bronze Medal in Hockey 🥉  
+### **📜 Certifications**
+
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge\&logo=microsoft\&logoColor=white)
+
+* Learning Data Analytics: Foundations - Microsoft & LinkedIn Learning Aug 2025
+* Introduction to Career Skills in Data Analytics - Microsoft & LinkedIn Learning Aug 2025
+* Career Essentials in Data Analysis by Microsoft and LinkedIn - Microsoft & LinkedIn Learning Aug 2025
 
 ---
 
-⏩ **Connect with me:**  
-- [LinkedIn](https://www.linkedin.com/in/biyyam-akash-reddy-ba871b252)  
-- [GitHub](https://github.com/akashreddy1234)  
+### **🏆 Achievements**
+
+* **Completed 50-Day LeetCode SQL Challenge** ![LeetCode](https://img.shields.io/badge/LeetCode-SQL-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)
+
+---
+
+### **⏩ Connect with Me**
+
+* [LinkedIn](https://www.linkedin.com/in/biyyam-akash-reddy-ba871b252)
+* [GitHub](https://github.com/akashreddy1234)
+
+---
+
+
+Do you want me to do that next?
