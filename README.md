@@ -28,6 +28,7 @@ I enjoy transforming raw data into actionable insights, building reports and das
      ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge\&logo=MySQL\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white) ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-F7DF1E?style=for-the-badge) ![EDA](https://img.shields.io/badge/EDA-FF5733?style=for-the-badge)
 
 2. **🧹 World Layoffs Data Cleaning – SQL Case Study**
+
    **Aim:** Performed end-to-end data cleaning on global layoffs dataset.
    **Outcome:**
 
@@ -36,7 +37,8 @@ I enjoy transforming raw data into actionable insights, building reports and das
      **Skills & Tools Used:**
      ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge\&logo=MySQL\&logoColor=white) ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge) ![Data Preparation](https://img.shields.io/badge/Data%20Preparation-F39C12?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-3. **🍕 Pizza Sales Analysis – SQL Case Study**
+4. **🍕 Pizza Sales Analysis – SQL Case Study**
+
    **Aim:** Analyzed pizza sales dataset to extract business insights.
    **Outcome:**
 
@@ -45,7 +47,8 @@ I enjoy transforming raw data into actionable insights, building reports and das
      **Skills & Tools Used:**
      ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge\&logo=MySQL\&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-F7DF1E?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) ![EDA](https://img.shields.io/badge/EDA-FF5733?style=for-the-badge)
 
-4. **📈 Power BI – AdventureWorks Analysis**
+6. **📈 Power BI – AdventureWorks Analysis**
+
    **Aim:** Built an interactive Power BI dashboard to analyze sales and budget performance.
    **Outcome:**
 
