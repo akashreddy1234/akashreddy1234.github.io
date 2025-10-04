@@ -24,6 +24,7 @@ I enjoy transforming raw data into actionable insights, building reports and das
    * Cleaned and standardized dataset using SQL.
    * Performed advanced exploratory data analysis including rolling totals, top layoffs per company/year, and monthly trends.
    * Provided actionable insights for business decision-making.
+
      **Skills & Tools Used:**
      ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge\&logo=MySQL\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white) ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-F7DF1E?style=for-the-badge) ![EDA](https://img.shields.io/badge/EDA-FF5733?style=for-the-badge)
 
@@ -34,6 +35,7 @@ I enjoy transforming raw data into actionable insights, building reports and das
 
    * Removed duplicates, standardized industries and countries, handled null values.
    * Created staging tables to maintain raw data integrity.
+
      **Skills & Tools Used:**
      ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge\&logo=MySQL\&logoColor=white) ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge) ![Data Preparation](https://img.shields.io/badge/Data%20Preparation-F39C12?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
@@ -44,7 +46,8 @@ I enjoy transforming raw data into actionable insights, building reports and das
 
    * Aggregated sales by pizza type, branch, and month.
    * Generated key metrics like total revenue, top-selling items, and trends.
-     **Skills & Tools Used:**
+
+      **Skills & Tools Used:**
      ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge\&logo=MySQL\&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-F7DF1E?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) ![EDA](https://img.shields.io/badge/EDA-FF5733?style=for-the-badge)
 
 6. **📈 Power BI – AdventureWorks Analysis**
@@ -54,6 +57,7 @@ I enjoy transforming raw data into actionable insights, building reports and das
 
    * Created KPIs, variance analysis, and percentage growth metrics.
    * Developed dynamic visualizations for business reporting.
+
      **Skills & Tools Used:**
      ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge) ![Data Visualization](https://img.shields.io/badge/Data%20Viz-4CAF50?style=for-the-badge) ![Dashboard](https://img.shields.io/badge/Dashboard-8E44AD?style=for-the-badge)
 
